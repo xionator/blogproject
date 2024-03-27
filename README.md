@@ -48,21 +48,3 @@ User data should be securely stored and transmitted. Passwords should be hashed 
 4\.3 Scalability
 
 The system should be easily scalable, which is facilitated by the use of microservices and Docker.
-
-5\. System Models
-
-5\.1 System Architecture Diagram
-
-A diagram should be provided here to visually represent the system's architecture.
-
-5\.2 Data Flow Diagrams
-
-Data flow diagrams should be provided to show how data moves through the system.
-
-5\.3 Database Schema
-
-The database schema for each microservice should be provided.
-
-6\. Conclusion
-
-This SRS provides a high-level overview of the blog website's requirements. Detailed design documents should be created to further elaborate on how each component will be implemented.
