@@ -1,11 +1,5 @@
 Welcome to this blog application!!!
-<br>
-We have created this application using Java and Docker. We have 4 microservices:<br>
-1. Blog
-2. Comments
-3. API-Gateway
-4. Eureka-Server
-<br><br>
+
 1. Introduction
 1.1 Purpose
 The purpose of this document is to outline the software requirements for a blog website using a microservice architecture with Spring Boot, Kafka, and Docker.
